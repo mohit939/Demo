@@ -7,3 +7,4 @@ hello from rebase
 doing rebase
 commit for new branch
 merge to main
+rebase command practice
