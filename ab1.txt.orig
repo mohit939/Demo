@@ -1,8 +1,8 @@
 hello stash
-
+<<<<<<< HEAD
 
 
 hello from rebase
-
+=======
 doing rebase
-
+>>>>>>> rebase
